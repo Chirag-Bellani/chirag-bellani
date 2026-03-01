@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Chirag Bellani
 
-<!--
-**Chirag-Bellani/chirag-bellani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Jr.React Native Developer
+💻 MERN Stack & React Native Developer  
+📍 Gujarat, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔭 Currently building Full-Stack MERN applications  
+- 🌱 Learning advanced System Design & scalable architecture  
+- 👯 Interested in Product-Based Companies  
+- 💬 Ask me about React, Node.js, MongoDB  
+- ⚡ Fun fact: I love building real-world projects  
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+React.js | Next.js | React Native | TypeScript | Tailwind CSS  
+
+### Backend
+Node.js | Express.js  
+
+### Database
+MongoDB | MySQL  
+
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ Gym Fitness App
+Full React app with API integration and workout plan customization.
+
+### 💱 Skill Barter Platform
+MERN full-stack platform with JWT authentication & real-time chat.
+
+### 💰 Personal Finance Tracker
+React + Firebase app with transaction tracking & analytics.
+
+---
+
+## 📊 GitHub Stats
+
+![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/chirag-bellani-7a06261b6/
+- Email: cbellani03@gmail.com
