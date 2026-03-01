@@ -8,10 +8,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building Full-Stack MERN applications  
+- 🔭 Currently building React Native apps by Integrating Rest APIs  
 - 🌱 Learning advanced System Design & scalable architecture  
-- 👯 Interested in Product-Based Companies  
-- 💬 Ask me about React, Node.js, MongoDB  
+- 💬 Ask me about React,React Native Node.js, MongoDB  
 - ⚡ Fun fact: I love building real-world projects  
 
 ---
